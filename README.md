@@ -3,7 +3,7 @@
 
 Uma breve descrição sobre o site Uniesp, incluindo sua arquitetura, organização de pastas e bibliotecas utilizadas.
 
-Site: [Click aqui][https://github.com/a-mandaflores/site_uniesp_kelson/tree/main]
+Site: [Click aqui](https://github.com/a-mandaflores/site_uniesp_kelson/tree/main)
 
 
 ## 🏛️ Arquitetura
